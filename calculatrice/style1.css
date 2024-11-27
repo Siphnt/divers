@@ -1,0 +1,17 @@
+body {
+	background : #152238;
+	text-align: center; 
+	
+}
+h1 {
+	color: red;	
+	margin: 20px;
+}
+label{
+	color: white ;
+}
+p {
+	color: white ;
+}
+a:hover { 
+	color: red;
